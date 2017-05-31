@@ -1,7 +1,7 @@
 ---
 output:
   pdf_document: default
-  html_document: default
+  html_document: PA1_template.html
 ---
 Peer Assessment 1
 ======================================
