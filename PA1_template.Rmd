@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 Peer Assessment 1
 ======================================
 
@@ -196,7 +201,7 @@ The 5-minute interval that contains the maximum of steps, on average across all 
 max_interval
 ```
 
-###Imputing missing values ###
+### Imputing missing values ###
 
 Note that there are a number of days/intervals where there are missing values (coded as 𝙽𝙰). The presence of missing days may introduce bias into some calculations or summaries of the data.
 
