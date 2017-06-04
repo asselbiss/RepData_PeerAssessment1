@@ -1,7 +1,6 @@
 ---
-output:
-  pdf_document: default
-  html_document: PA1_template.html
+output: rmarkdown::github_document
+
 ---
 Peer Assessment 1
 ======================================
