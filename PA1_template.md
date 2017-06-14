@@ -134,7 +134,7 @@ hist(sum_data$total,
      main = "Histogram of the total number of steps taken each day\n(NA removed)")
 ```
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![plot of chunk Total steps per day](https://github.com/asselbiss/RepData_PeerAssessment1/blob/gh-pages/unnamed-chunk-6-1.png)
 
 1.  Calculate and report the **mean** and **median** of the total number of steps taken per day
 
