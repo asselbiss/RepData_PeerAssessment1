@@ -197,7 +197,7 @@ plot(mean_data$interval,
      main = "Time-series of the average number of steps per intervals\n(NA removed)")
 ```
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![plot of chunk Average number of steps](https://github.com/asselbiss/RepData_PeerAssessment1/blob/gh-pages/unnamed-chunk-12-1.png)
 
 1.  Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
@@ -296,7 +296,7 @@ hist(sum_data$total,
      main="Histogram of the total number of steps taken each day\n(NA replaced by mean value)")
 ```
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-19-1.png)
+![plot of chunk Total steps per day NA replaced](https://github.com/asselbiss/RepData_PeerAssessment1/blob/gh-pages/unnamed-chunk-19-1.png)
 
 The mean and median are computed like
 
@@ -377,7 +377,7 @@ xyplot(mean ~ interval | daytype, mean_data,
        layout = c(1, 2))
 ```
 
-![](PA1_template_files/figure-markdown_github/unnamed-chunk-26-1.png)
+![plot of chunk Weekdays compare](https://github.com/asselbiss/RepData_PeerAssessment1/blob/gh-pages/unnamed-chunk-26-1.png)
 
 ``` r
 # Clear the workspace
